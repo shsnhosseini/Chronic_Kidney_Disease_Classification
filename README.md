@@ -113,7 +113,6 @@ The trained model is saved as `ckd-model.h5` for production deployment.
 
 ## Key Findings
 
-- Neural networks significantly outperform logistic regression on this dataset
 - Adding a hidden layer substantially improves model performance
 - ReLU and Tanh activation functions are more effective than sigmoid for hidden layers
 - Dropout regularization helps prevent overfitting
