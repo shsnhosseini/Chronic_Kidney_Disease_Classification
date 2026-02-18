@@ -125,6 +125,7 @@ The trained model is saved as `ckd-model.h5` for production deployment.
 |------|-------------|
 | `Chronic_Kidney_Disease_Classification.ipynb` | Main Jupyter |
 | `ckd-model.h5` | Pre-trained best-performing neural network model |
+| `kidney_disease.xlsx` | Project Dataset |
 
 ## Methodology
 
