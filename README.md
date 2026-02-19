@@ -144,6 +144,3 @@ The project follows a systematic approach:
 - Adam optimizer is used throughout for consistent convergence
 - K-fold cross-validation provides robust performance estimates
 - The final model is trained on all available data (production step) after hyperparameter selection
-
-## Author
-**Seyyed Hossein Hosseini**
