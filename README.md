@@ -89,12 +89,10 @@ The trained model is saved as `ckd-model.h5` for production deployment.
 
 ## Requirements
 
-- pandas
-- matplotlib
-- seaborn
-- scikit-learn
-- tensorflow/keras
-- numpy
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
